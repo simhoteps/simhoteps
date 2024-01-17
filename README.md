@@ -23,13 +23,13 @@ In addition, I love learning and working with an open mind to discover new ideas
   <a href="https://firebase.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" title="Firebase"/></a>
   <a href="https://www.algolia.com/" target="_blank"><img src="https://img.icons8.com/windows/48/26e07f/search--v1.png" alt="Algolia" title="Algolia"/></a>
 <a href="https://threejs.org/" target="_blank"><i class="fab fa-js-square"></i><img src="https://img.shields.io/badge/-Three.js-black?style=flat-square&logo=three.js&logoColor=white" alt="Three.js"></a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" title="Illustrator" width="48" height="48"/></a>
-<a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" title="Photoshop" width="48" height="48"/></a>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" title="Illustrator" width="40" height="40"/></a>
+<a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" title="Photoshop" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/fluency/50/figma.png" alt="Figma" title="Figma"/></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> 
-  <a href="https://redux.js.org/" target="_blank"><img src="https://redux.js.org/img/redux.svg" alt="Redux" title="Redux" width="48" height="48"/></a>
-  <a href="https://mobx.js.org/README.html" target="_blank"><img src="https://mobx.js.org/img/mobx.png" alt="Mobx" title="Mobx" width="48" height="48"/></a>
-  <a href="https://tanstack.com/" target="_blank"><img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="TanStack Query" title="TanStack Query" width="48" height="48"/></a>
+  <a href="https://redux.js.org/" target="_blank"><img src="https://redux.js.org/img/redux.svg" alt="Redux" title="Redux" width="40" height="40"/></a>
+  <a href="https://mobx.js.org/README.html" target="_blank"><img src="https://mobx.js.org/img/mobx.png" alt="Mobx" title="Mobx" width="40" height="40"/></a>
+  <a href="https://tanstack.com/" target="_blank"><img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="TanStack Query" title="TanStack Query" width="40" height="40"/></a>
 
 
    
