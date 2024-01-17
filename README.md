@@ -27,6 +27,10 @@ In addition, I love learning and working with an open mind to discover new ideas
 <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" title="Photoshop" width="48" height="48"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/fluency/50/figma.png" alt="Figma" title="Figma"/></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+  <a href="https://redux.js.org/" target="_blank"><img src="https://redux.js.org/img/redux.svg" alt="Redux" title="Redux" width="48" height="48"/></a>
+  <a href="" target="_blank"><img src="" alt="" title=""/></a>
+  <a href="" target="_blank"><img src="" alt="" title=""/></a>
+  <a href="" target="_blank"><img src="" alt="" title=""/></a>
 
    
 <br>
