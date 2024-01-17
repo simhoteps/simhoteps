@@ -29,8 +29,8 @@ In addition, I love learning and working with an open mind to discover new ideas
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> 
   <a href="https://redux.js.org/" target="_blank"><img src="https://redux.js.org/img/redux.svg" alt="Redux" title="Redux" width="48" height="48"/></a>
   <a href="https://mobx.js.org/README.html" target="_blank"><img src="https://mobx.js.org/img/mobx.png" alt="Mobx" title="Mobx" width="48" height="48"/></a>
-  <a href="" target="_blank"><img src="" alt="" title=""/></a>
-  <a href="" target="_blank"><img src="" alt="" title=""/></a>
+  <a href="https://tanstack.com/" target="_blank"><img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="TanStack Query" title="TanStack Query"/></a>
+
 
    
 <br>
