@@ -14,11 +14,13 @@ In addition, I love learning and working with an open mind to discover new ideas
 
 <div style="display: flex; flex-wrap: wrap;">
   <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React"/></a>
-  
+    <a href="https://reactnative.dev/" target="_blank"><img src="https://img.icons8.com/nolan/54/react-native.png" alt="React Native" title="React Native"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS"/></  <a href="https://firebase.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" title="Firebase"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS"/></a>
+
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" title="Firebase"/></a>
   <a href="https://www.algolia.com/" target="_blank"><img src="https://img.icons8.com/windows/48/26e07f/search--v1.png" alt="Algolia" title="Algolia"/></a>
     <a href="https://threejs.org/" target="_blank"><i class="fab fa-js-square"></i><img src="https://img.shields.io/badge/-Three.js-black?style=flat-square&logo=three.js&logoColor=white" alt="Three.js"></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/fluency/50/figma.png" alt="Figma" title="Figma"/></a>
