@@ -39,7 +39,6 @@ In addition, I love learning and working with an open mind to discover new ideas
 <div style="display: flex; flex-wrap: wrap;">
   <a href="https://vuejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/vue-js.png" alt="Vue" title="Vue"/></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js"/></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" title="C#"/></a>
   <a href="https://unity.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/unity.png" alt="Unity" title="Unity"/></a>
 </div>
 <br>
