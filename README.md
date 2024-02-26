@@ -1,5 +1,5 @@
 ## Hi there I am Zühal 👋
-### Frontend Developer (React-React Netive)
+### Frontend Developer (React-React Native)
 
 Hello! I'm Zühal, a front-end developer successfully transferring my aesthetic understanding and coordination skills from my background in architecture and diverse disciplines. Since 2021, I have been continuously improving myself, particularly by working with technologies like React.js. Actively participating in team collaborations under the Scrum methodology, I have successfully managed projects. Currently, I am focused on advancing my front-end career, embracing continuous learning, and generating creative solutions.
 
