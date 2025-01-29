@@ -6,7 +6,9 @@ Hello! I'm Zühal, a front-end developer successfully transferring my aesthetic 
 In addition, I love learning and working with an open mind to discover new ideas. If you'd like to get in touch with me or work together, please feel free to [contact me!](mailto:ixivore@gmail.com)
 
 <!--![](https://komarev.com/ghpvc/?username=simhoteps&color=blue) -->
-
+<div style="display:felx, flex-direction:row">
+  
+</div>
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zuhalhayatyurdakul/)](https://www.linkedin.com/in/zuhalhayatyurdakul/)  
 [![Medium Badge](https://img.shields.io/badge/-Medium-white?style=flat-square&logo=Medium&logoColor=black&link=https://medium.com/@simhoteps)](https://medium.com/@simhoteps)
 
