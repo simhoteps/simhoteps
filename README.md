@@ -7,8 +7,8 @@ In addition, I love learning and working with an open mind to discover new ideas
 
 <!--![](https://komarev.com/ghpvc/?username=simhoteps&color=blue) -->
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/zuhalhayatyurdakul/)
-[![Medium Badge](https://logos-world.net/wp-content/uploads/2023/07/Medium-Logo.png)](https://medium.com/@simhoteps)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zuhalhayatyurdakul/)](https://www.linkedin.com/in/zuhalhayatyurdakul/)  
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@simhoteps)](https://medium.com/@simhoteps)
 
 ### What technologies do I use?
 
